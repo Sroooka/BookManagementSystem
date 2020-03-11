@@ -1,2 +1,2 @@
 # BookManagementSystem
-Simple Angular MVC App
+Simple Angular MVC Application
